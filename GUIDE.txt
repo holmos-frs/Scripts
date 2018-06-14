@@ -1,0 +1,7 @@
+1. getimg.bat ausführen (falls raspivid noch läuft, entweder am pi direkt oder über putty mit
+"pkill raspivid" beenden)
+2. nachdem getimg beendet ist, auswertung.bat ausführen
+3. satelliten auswählen, x- & y-position merken und fenster schließen, in dem anderen fenster
+eingeben
+4. (falls der server noch nicht läuft) einmalig startserver.bat ausführen
+5. im browser auf localhost:8000 gehen, wenn nötig mit strg+shift+r seite neu laden

@@ -1,0 +1,3 @@
+tastaturlayout auf deutsch: setxkbmap de
+video preview: raspivid -t 0
+bildaufnahme: raspistill -o filename.png
